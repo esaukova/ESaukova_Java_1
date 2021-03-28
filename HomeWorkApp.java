@@ -39,7 +39,7 @@ public class HomeWorkApp {
         if ((x) > 100) {
             System.out.println("Зелёный");}
     }
-
+    //compareNumbers
     public static void compareNumbers() {
         Scanner in = new Scanner(System.in);
         int a = in.nextInt();
